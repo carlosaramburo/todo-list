@@ -1,0 +1,21 @@
+.main {
+    max-width: 700px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.task:hover {
+    background-color: #f4f6f7;
+}
+
+.complete-text {
+    text-decoration-line: line-through;
+}
+
+.editBtn:hover, .deleteBtn:hover {
+    cursor: pointer;
+}
+
+.taskTitle {
+    margin-bottom: 0;
+}
